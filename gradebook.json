@@ -1,0 +1,16 @@
+[
+    {
+        "code": "asdasd",
+        "name": "as",
+        "credits": 4,
+        "semester": 1,
+        "score": 10.0
+    },
+    {
+        "code": "asd",
+        "name": "sdf",
+        "credits": 3,
+        "semester": 1,
+        "score": 6.0
+    }
+]
